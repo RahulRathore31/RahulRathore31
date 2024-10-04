@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rahul Rathore</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrathore31" /> </p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a></h3>
+<h4 align="left">Passionate about UI effects, animations, and dynamic user experiences. Detail-oriented, independent problem solver and Fan of Alessia Cara.<br><br></h4>
+<h5>Let's create something special!</h5>
 
-- 🔭 I’m currently working on **Web Development**
+- 🌱 Currently advancing my skills with <b>Spring Boot</b> and <b>Hibernate</b> .
+- 💻 Passionate about Competitive Coding .
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, SQL, React, C, C++, Data Structures and Algorithms (DSA), Java, Spring Boot, Hibernate, JSP-Servlet, JDBC, and Git**.
+- 📫 How to reach me **rahulrathore3107@gmail.com**.
+- ⚡ Fun fact : **I love learning new things and Creating Content**.
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/RahulRathore31](https://github.com/RahulRathore31)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **rahulrathore3107@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/RahulRathore31/Resume](https://github.com/RahulRathore31/Resume)
-
-- ⚡ Fun fact **I love learning new things and Creating Content**
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
