@@ -63,9 +63,9 @@
 
 <div align="center">
   <h2 align="center">⚡ My Stats ⚡</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=whosthisjay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=whosthisjay&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whosthisjay&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false" height="210" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulRathore31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RahulRathore31&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulRathore31&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false" height="210" alt="activity-graph graph"  />
 </div>
 <hr/>
 <!-- <div align="center">
