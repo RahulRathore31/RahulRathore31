@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rahul Rathore</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrathore31" /> </p>
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/uday-sharma-602b33267/">Jay Parmar</a><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60px"></h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a>
+</h3>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/uday-sharma-602b33267/">Rahul Rathore</a><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60px"></h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a></h3>
+
 <h4 align="left">Passionate about UI effects, animations, and dynamic user experiences. Detail-oriented, independent problem solver and Fan of Alessia Cara.<br><br></h4>
 <h5>Let's create something special!</h5>
 
