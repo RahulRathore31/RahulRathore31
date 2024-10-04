@@ -1,6 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrathore31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrathore31" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rahulrathore31&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrathore31" /> </p>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/31rahulrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="31rahulrathore" height="30" width="40" /></a>
