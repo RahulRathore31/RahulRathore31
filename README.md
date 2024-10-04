@@ -58,7 +58,7 @@
      
 
     
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/</a> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/</a> 
 
 <div align="center">
   <h2 align="center">⚡ My Stats ⚡</h2>
