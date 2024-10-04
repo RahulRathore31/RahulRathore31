@@ -58,18 +58,18 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img width="2" />
 </div>
-<div align="center">
-  <h2 align="center">⚡ My Stats ⚡</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrathore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rahulrathore&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrathore&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false" height="210" alt="activity-graph graph"  />
-</div>
-
-
-
 <br clear="both">
 <hr/>
+
+<div align="center">
+  <h2 align="center">⚡ My Stats ⚡</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=whosthisjay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=whosthisjay&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whosthisjay&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false" height="210" alt="activity-graph graph"  />
+</div>
+<hr/>
 <!-- <div align="center">
+
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
