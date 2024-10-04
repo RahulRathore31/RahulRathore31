@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulRathore31](https://github.com/RahulRathore31)
 
-- 💬 Ask me about **Hibernate , Spring**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **rahulrathore3107@gmail.com**
 
