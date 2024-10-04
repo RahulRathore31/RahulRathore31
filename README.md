@@ -15,7 +15,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a>
 </h3>
 
-<h4 align="left">Passionate about UI effects, animations, and dynamic user experiences. Detail-oriented, independent problem solver and Fan of Alessia Cara.<br><br></h4>
+<h4 align="left">Passionate about UI effects, animations, and dynamic user experiences. Detail-oriented, independent problem solver.<br><br></h4>
 <h5>Let's create something special!</h5>
 
 - 🌱 Currently advancing my skills with <b>Spring Boot</b> and <b>Hibernate</b> .
