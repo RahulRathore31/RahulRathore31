@@ -10,7 +10,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/uday-sharma-602b33267/">Rahul Rathore</a>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a>
 </h3>
 
 <h4 align="left">Passionate about UI effects, animations, and dynamic user experiences. Detail-oriented, independent problem solver.<br><br></h4>
@@ -59,8 +59,8 @@
   <img width="2" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img width="2" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img width="2" />
+  <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img width="2" /-->
 </div>
 <br clear="both">
 <hr/>
