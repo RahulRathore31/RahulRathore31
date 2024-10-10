@@ -2,12 +2,9 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/31rahulrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="31rahulrathore" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahul-rathore-6529951b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-rathore-6529951b0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-rathore-6529951b0/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDkggUwhwTmm4gAQuT%2BYZ6w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-rathore-6529951b0" height="30" width="40" /></a>
 <a href="https://fb.com/rahul rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul rathore" height="30" width="40" /></a>
 <a href="https://instagram.com/31rahulrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="31rahulrathore" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" 
-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" 
-alt="31rahulrathore" height="30" width="40" /></a>
 </p>
 
 <div align="center">
