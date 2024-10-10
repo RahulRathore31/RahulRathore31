@@ -5,7 +5,11 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/rahul-rathore-6529951b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahul-rathore-6529951b0" height="30" width="40" /></a>
 <a href="https://fb.com/rahul rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul rathore" height="30" width="40" /></a>
 <a href="https://instagram.com/31rahulrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="31rahulrathore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" 
+src="https://imgs.search.brave.com/758cqwl5QKNZ5Q_uJEM0kX4hh-ZUG_v8gawZcLJYf1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2M5L0xpbmtlZGlu/LnN2Zw" 
+alt="31rahulrathore" height="30" width="40" /></a>
 </p>
+
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
