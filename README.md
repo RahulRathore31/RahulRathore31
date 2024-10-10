@@ -6,7 +6,7 @@
 <a href="https://fb.com/rahul rathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul rathore" height="30" width="40" /></a>
 <a href="https://instagram.com/31rahulrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="31rahulrathore" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" 
-src="[https://imgs.search.brave.com/758cqwl5QKNZ5Q_uJEM0kX4hh-ZUG_v8gawZcLJYf1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2M5L0xpbmtlZGlu/LnN2Zw](https://imgs.search.brave.com/xEz-VApBVicxRotDJpyGYoqvvREGDC_-4ABYHrKEvz8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9saW5rZWRpbi1p/Y29uLnN2Zw)" 
+src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" 
 alt="31rahulrathore" height="30" width="40" /></a>
 </p>
 
