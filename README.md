@@ -17,9 +17,9 @@
 <h4 align="left">Passionate about UI effects, animations, and dynamic user experiences. Detail-oriented, independent problem solver.<br><br></h4>
 <h5>Let's create something special!</h5>
 
-- 🌱 Currently advancing my skills with <b>Spring Boot</b> and <b>Hibernate</b> .
+- 🌱 Currently advancing my skills with <b>Spring Boot</b> and <b>Angular</b> .
 - 💻 Passionate about Competitive Coding .
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, SQL, React, C, C++, Data Structures and Algorithms (DSA), Java, Spring Boot, Hibernate, JSP-Servlet, JDBC, and Git**.
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, SQL, Angular, C, C++, Data Structures and Algorithms (DSA), Java, JSP-Servlet, JDBC, Hibernate, Spring Boot and Git**.
 - 📫 How to reach me **rahulrathore3107@gmail.com**.
 - ⚡ Fun fact : **I love learning new things and Creating Content**.
 
