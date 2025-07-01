@@ -42,6 +42,8 @@
   <img width="2" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="36" alt="typescript logo" />
   <img width="2" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="36" alt="nextjs logo" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="36" alt="angular logo" />
   <img width="2" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="36" alt="java logo" />
